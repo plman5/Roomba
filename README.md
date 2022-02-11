@@ -6,3 +6,5 @@ Welcome to the Roomba Creative Inquiry Project at Clemson University, under the 
 We will be using GitHub to organize and manage our Python code and other files for the project.
 GitHub allows us to incorporate necessary changes and updates from multiple users at the same time.
 Please become familiar with the layout and workflow of GitHub. Let me (mathman93) know if you have any questions.
+
+

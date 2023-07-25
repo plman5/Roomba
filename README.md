@@ -1,10 +1,8 @@
-# RoombaCI-Clemson
-Creative Inquiry Project on Coordinated Control of Swarm Robotics using RaspberryPi-controlled Roombas.
-    (with specific applications to Pulse Coupled Oscillators)
+# Synchronous Roomba Playback
+I added to this project as part of the Creative Inquiry Project on Coordinated Control of Swarm Robotics using RaspberryPi-controlled Roombas.
+    (with specific applications to Pulse Coupled Oscillators).
+    
+My addition was finding a way for the Roombas to play synchronously, allowing for songs with multiple parts to be played. To test this I programmed a vocal compostion from my choir class that semester. 
 
-Welcome to the Roomba Creative Inquiry Project at Clemson University, under the direction of Dr. Yongqiang Wang.
-We will be using GitHub to organize and manage our Python code and other files for the project.
-GitHub allows us to incorporate necessary changes and updates from multiple users at the same time.
-Please become familiar with the layout and workflow of GitHub. Let me (mathman93) know if you have any questions.
 
 
